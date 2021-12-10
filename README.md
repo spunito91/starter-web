@@ -15,3 +15,6 @@ Noch mehr text
 und noch mehr Text. Keiner ist schneller
 
 ## How to Contribute
+
+### Copyright
+Geschützt!
